@@ -15,4 +15,6 @@ It uses text + price anomaly features to predict high-risk listings.
 - Seller type & posting recency
 - Risk scoring & top suspicious listings dashboard
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/ss.png)
+!(screenshots/ss2.png)
+!(screenshots/ss3.png)
