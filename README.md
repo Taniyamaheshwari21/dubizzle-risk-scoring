@@ -16,5 +16,5 @@ It uses text + price anomaly features to predict high-risk listings.
 - Risk scoring & top suspicious listings dashboard
 
 ![Dashboard Screenshot](screenshots/ss.png)
-!(screenshots/ss2.png)
-!(screenshots/ss3.png)
+![pic](screenshots/ss2.png)
+![picc](screenshots/ss3.png)
